@@ -8,7 +8,7 @@ This syllabus may be updated prior to and throughout the semester by Dr. Greenha
 
 **Instructor**: Spencer Greenhalgh, PhD
 
-#HERE IS MY TEST 
+# HERE IS MY TEST 
 
 **Office**: 341 Lucille Little Library Bldg.
 
