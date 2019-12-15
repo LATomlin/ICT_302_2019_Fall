@@ -9,7 +9,10 @@ This will be done all throughout the class. Unfortunatley there is no specific t
 
 # How Will It Be Evaluated?
 
-I should be evaluated on a few different things. Some of these being, if I did or didn't get make a task list that I was assigned for the other groups, if the groups have communicated at least twice per week, and if I have come to class that week.
+I should be evaluated on a few different things.
+Made sure there was ommunications with all groups each week: 4 points 
+Made sure group leaders gave administrators tasks when needed: 2 points
+Made sure group tasks were assigned on ClickUp for each group assigned to me: 2 points
 
 # Who Will Evaluate It?
 
