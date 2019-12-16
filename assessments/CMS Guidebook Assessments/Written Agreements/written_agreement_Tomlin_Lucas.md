@@ -9,10 +9,10 @@ This will be done all throughout the class. Unfortunatley there is no specific t
 
 # How Will It Be Evaluated?
 
-I should be evaluated on a few different things.
-Made sure there was ommunications with all groups each week: 4 points 
-Made sure group leaders gave administrators tasks when needed: 2 points
-Made sure group tasks were assigned on ClickUp for each group assigned to me: 2 points
+I should be evaluated on a few different things. </br>
+Made sure there was ommunications with all groups each week: 4 points </br>
+Made sure group leaders gave administrators tasks when needed: 2 points </br>
+Made sure group tasks were assigned on ClickUp for each group assigned to me: 2 points </br>
 
 # Who Will Evaluate It?
 
